@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AustinAdodo
 - 👀 I’m interested in learning and collaborating with software Engineers on projects.
 - 🌱 I’m currently developing with Aps.net core,Javascript, MVC, Angular ,Node, C#, Jquery.
-- 💞️ I’m looking to develop projects utilizing the above aforementioned technologies.
+- 💞️ I’m looking to develop significant projects utilizing the above aforementioned technologies.
 - 📫 How to reach me subzbelow@gmail.com or odiaadodo@mudiabusiness.com.
 
 <!---
