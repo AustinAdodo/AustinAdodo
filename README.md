@@ -1,7 +1,6 @@
 - 👋 :) @AustinAdodo
 - 👀 interested in learning and collaborating with software Engineers on projects.
-- 🌱 Aps.net core,Javascript, MVC, Angular ,Node, C#, Jquery => stack.. 
-- 💞️ Looking to develop significant projects utilizing the above aforementioned technologies.
+- 🌱 stack => {Aps.net core,Javascript, MVC, Angular ,Node, C#, Jquery}
 - 📫  subzbelow@gmail.com or odiaadodo@mudiabusiness.com.
 
 <!---
