@@ -1,6 +1,6 @@
-- 👋 i'm @AustinAdodo
-- 🎞️ my experiences include developing E.R.Ps, back-end and font-end development of complex systems. 
-- 👀 interested in learning and collaborating with software Engineers on projects.
+- 👋 i'm Austin
+- 🎞️ my experiences include developing E.R.Ps, back-end and font-end development of significant complex systems. 
+- 👀 interested in learning and collaborating with software Engineers worldwide.
 - 🌱 stack => {Aps.net core, SQL, Javascript, MVC, Angular ,Node, C#, Jquery}
 - 📫  subzbelow@gmail.com or odiaadodo@mudiabusiness.com.
 
