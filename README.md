@@ -2,7 +2,7 @@
 - 🎞️ my experiences include developing E.R.Ps, back-end and font-end development of significant complex systems. 
 - 👀 interested in learning and collaborating with software Engineers worldwide.
 - 🌱 stack => {Aps.net core, SQL, NoSQL, Javascript, MVC, Angular ,Node, C#, Jquery}
-- 📫  subzbelow@gmail.com or odiaadodo@mudiabusiness.com.
+- 📫  adodo.austin.o@gmail.com.
 - LinkedIn: https://www.linkedin.com/in/austin-adodo-283030b41a9/ 
 
 <!---
