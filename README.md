@@ -1,7 +1,7 @@
 - 👋 i'm Austin
 - 🎞️ my experiences include developing E.R.Ps, back-end and font-end development of significant complex systems. 
 - 👀 interested in learning and collaborating with software Engineers worldwide.
-- 🌱 stack => {Aps.net core, SQL, NoSQL, Javascript, MVC, Angular ,Node, C#, Jquery}
+- 🌱 stack => {Aps.net core, Python, SQL, NoSQL, Javascript, MVC, Angular ,Nodejs, C#, Jquery}
 - 📫  adodo.austin.o@gmail.com.
 - LinkedIn: https://www.linkedin.com/in/austin-adodo-283030b41a9/ 
 
