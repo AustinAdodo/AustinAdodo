@@ -1,7 +1,7 @@
 - 👋 i'm Austin
 - 🎞️ A Senior Software Engineer with significant experiences that include developing E.R.Ps, Saas applications, back-end and font-end development of complex systems. 
 - 👀 interested in learning and collaborating with software Engineers worldwide.
-- 🌱 stack => {Aps.net Core, Python, SQL, NoSQL, Javascript, MVC, Angular ,Nodejs, C#, Jquery, React}
+- 🌱 stack => {Aps.net Core, Python,Django, SQL, NoSQL, Javascript, MVC, Angular ,Nodejs, C#, Jquery, React}
 - 📫  adodo.austin.o@gmail.com.
 - LinkedIn: https://www.linkedin.com/in/austin-adodo-283030b41a9/ 
 
