@@ -3,7 +3,7 @@
 - 👀 interested in learning and collaborating with software Engineers worldwide.
 - 🌱 stack => {Aps.net Core, Python,Django, SQL, NoSQL, Javascript, MVC, Angular ,Nodejs, C#, Jquery, React}
 - 📫  adodo.austin.o@gmail.com.
-- LinkedIn: https://www.linkedin.com/in/austin-adodo-283030b41a9 
+- LinkedIn: [https://www.linkedin.com/in/austin-adodo-283030b41a9 ](https://www.linkedin.com/in/austin-adodo-2855b41a9/)
 
 <!---
 AustinAdodo/AustinAdodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
