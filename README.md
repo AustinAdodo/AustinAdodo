@@ -1,4 +1,4 @@
-- 👋-> Austin https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/[https://www.linkedin.com/in/austin-adodo-283030b41a9 ](https://www.linkedin.com/in/austin-adodo-2855b41a9/)
+- 👋-> Austin https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 - 🎞️ A Senior Software Engineer with significant experiences that include developing E.R.Ps, Saas applications, back-end and font-end development of complex systems. 
 - 👀 interested in learning and collaborating with software Engineers worldwide.
 - 🌱 stack => {Aps.net Core, Python,Django, SQL, NoSQL, Javascript, MVC, Angular ,Nodejs, C#, Jquery, React,REST,GraphQL}
