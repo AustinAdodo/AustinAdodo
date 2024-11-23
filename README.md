@@ -5,7 +5,7 @@
 
 
 ## 🛠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinAdodo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinAdodo&layout=compact&theme=dark)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AustinAdodo&theme=github-compact)
