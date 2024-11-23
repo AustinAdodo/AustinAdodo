@@ -8,7 +8,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinAdodo&layout=compact&theme=radical)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AustinAdodo&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AustinAdodo&theme=github-compact)
 
 
 <!---
@@ -16,4 +16,5 @@ AustinAdodo/AustinAdodo is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes. 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustinAdodo&show_icons=true&theme=radical)
+https://github.com/Ashutosh00710/github-readme-activity-graph
 --->
